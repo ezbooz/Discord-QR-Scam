@@ -3,3 +3,4 @@ selenium
 pillow
 lxml
 Image
+requests
