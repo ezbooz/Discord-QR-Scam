@@ -1,5 +1,5 @@
 # Discord-QR-Scam
-
+Оригинальный репозиторий этого скрипта - https://github.com/NightfallGT/Discord-QR-Scam
 See [original README.md](https://github.com/NightfallGT/Discord-QR-Scam) for info.
 
 Оригинал тема об этом скрипте - https://lolz.guru/threads/2585164/, остальные паста
