@@ -3,5 +3,4 @@ See [original README.md](https://github.com/NightfallGT/Discord-QR-Scam) for inf
 
 Оригинал тема об этом скрипте - https://lolz.guru/threads/2585164/, остальные паста
 
-![lolz guru](https://user-images.githubusercontent.com/55065112/123018164-b64e9f00-d3d6-11eb-9809-d46c2c4b998b.png)
-
+![lolz guru](https://user-images.githubusercontent.com/55065112/123018211-d41c0400-d3d6-11eb-99dc-7afd99ac3343.png)
