@@ -64,12 +64,9 @@ def main():
 
     soup = BeautifulSoup(page_source, features='lxml')
 
-    div = soup.find('div', {'class': 'qrCode-wG6ZgU'})
-    qr_code = div.find('img')['src']
-    file = os.path.join(os.getcwd(), 'temp/qr_code.png')
-
+    qr_code = soup.find('img', alt = "Scan me!")['src']
     img_data =  base64.b64decode(qr_code.replace('data:image/png;base64,', ''))
-
+    file = os.path.join(os.getcwd(), 'temp/qr_code.png')
     with open(file,'wb') as handler:
         handler.write(img_data)
 
