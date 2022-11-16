@@ -14,7 +14,7 @@ os.system("mode con cols=125 lines=25")
 
 
 
-WEBHOOK_URL = 'https://discord.com/api/webhooks/840022322953191516/s4JJgQVyWyTNvIkb2_Qv9CL6TWIR45BF0iyA4nSB5I9pev0lAHi8EAP7nJqAYhDmiay1'
+WEBHOOK_URL = 'ССЫЛКА НА ВЕБХУК'
 
 def logo_qr():
     im1 = Image.open('temp/qr_code.png', 'r')
